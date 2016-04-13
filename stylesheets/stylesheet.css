@@ -98,9 +98,8 @@ div.title {
 /********** Tablet devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
   #sect1, #sect2, #sect3 {
-    display: inline-block;
     float:left;
-    padding:5px;
+    padding:10px;
   }
 
   #sect1, #sect2 {
