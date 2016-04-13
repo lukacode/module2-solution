@@ -49,7 +49,7 @@ div.title {
 @media (min-width: 992px) {
   #sect1, #sect2, #sect3 {
     display: inline-block;
-    width: 33%;
+    width: 28%;
   }
 }
 /*
